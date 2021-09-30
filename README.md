@@ -2,7 +2,7 @@
 
 Clone this repository. If you're reading this, you've already accessed it!
 
-Make any changes you want to the file titled activity.md (and specifically THAT FILE) and *MAKE SURE TO SAVE!*
+Make any changes you want to the file titled edit-me.md and *MAKE SURE TO SAVE!*
 
 Go to the branch icon on the side in VSCode, click the 3 dots, and then click Pull.
 
